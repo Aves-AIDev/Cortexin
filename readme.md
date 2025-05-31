@@ -1,3 +1,4 @@
+![Full Logo Transparent (1)](https://github.com/user-attachments/assets/a4d1ae3c-0e02-4d2a-8376-a9342bbd01e9)
 # My learning journey of Machine Learning Development all using Rust
 
 ### Purpose 
