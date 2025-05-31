@@ -13,5 +13,5 @@ Main experiment will be comparing performance of Machine Learning Models or Algo
  - compiling of code (or speed)
  - data/memory safety (is data or learned patterns been lost due to memory errors or not , and how much)
 
-will start with basic machine learning models ( regression first and test )
+will start with basics maths then machine learning models ( regression first and test )
 
